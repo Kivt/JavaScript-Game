@@ -1,5 +1,5 @@
 # JavaScript-Game
-Demo of simple game, created with PhaserJS and webpack
+Demo of simple arcade game, created with PhaserJS and webpack
 
 ### Installation
 `npm install`
